@@ -83,7 +83,7 @@
                     </span>
                 </div><br>
                 <input class="button "type="submit" value="Submit" name="submit">
-                <a href="ForgetPassword.php" class="link">Forget Password?</a>
+                <a href="ForgotPassword.php" class="link">Forget Password?</a>
             </fieldset>
         </form>
     <?php include('Footer.php');?>
