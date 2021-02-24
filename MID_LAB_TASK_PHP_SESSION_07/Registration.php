@@ -3,7 +3,7 @@
     <style>
         body
         {
-            background: lightgray;
+            background: white;
         } 
         form
         {
@@ -133,7 +133,7 @@
                 </div>
 
                 <div class="month">
-                    <input type="text" id="month" name="dob" value="mmoth" placeholder="month" style="text-align: center;" size="5"> /
+                    <input type="text" id="month" name="dob" value="month" placeholder="month" style="text-align: center;" size="5"> /
                 </div>
 
                 <div class="year">
