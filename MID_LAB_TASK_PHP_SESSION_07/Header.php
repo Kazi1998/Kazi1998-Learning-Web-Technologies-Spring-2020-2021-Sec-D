@@ -75,6 +75,7 @@
         }
     </style>
     <bodY>
+        <fieldset>
         <header>
         <div class ="a">
             <a href="home.php">
@@ -89,5 +90,6 @@
             </nav>
             </div>
         </header>
+    </fieldset>
     </bodY>
 </html>
