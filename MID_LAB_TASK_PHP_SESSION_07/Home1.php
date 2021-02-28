@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html>
+<head>
+    <title>LOGGED IN DASHBOARD</title>
+</head>
     <style>
         body
         {
@@ -28,7 +31,7 @@
         </h1>
         <hr class="line">
         <div class="about">
-            <p style="font-size: 20px; translate: 7%;">Welcome to Bob</p>
+            <p style="font-size: 20px; translate: 7%;">Welcome Bob</p>
         <tr>
             <td colspan="2">
 <table  align="left"  >
@@ -43,11 +46,11 @@
                 <ul>
                     <ol>
     <li><a href="#">Dashboard</a></li>
-    <li><a href="#">View Profile</a></li>
+    <li><a href="viweprof.php">View Profile</a></li>
     <li><a href="#">Edit Profile</a></li>
     <li><a href="#">Change Profile picture</a></li>
-    <li><a href="#">Change Password</a></li>
-    <li><a href="#">Logout</a></li>
+    <li><a href="Change password.php">Change Password</a></li>
+    <li><a href="LogIn.php">Logout</a></li>
 </ol>
 </ul>
 </td>
