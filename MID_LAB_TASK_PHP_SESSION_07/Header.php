@@ -78,8 +78,8 @@
         <fieldset>
         <header>
         <div class ="a">
-            <a href="home.php">
-            <img src="C:\xampp\htdocs\Task-1\logo.png" alt="logo" width="150px" height="70px" class="logo">
+            <a href="Home.php">
+            <img src="logo.png" height="50px">
             </a>
             <nav>
                 <ul>
