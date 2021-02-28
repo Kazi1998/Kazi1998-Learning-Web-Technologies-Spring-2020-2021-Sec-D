@@ -82,7 +82,7 @@
     </style>
     <body>
     <?php include('Header.php');?>
-        <form id="registration" method="POST" action="db.php">
+        <form id="registration" method="POST" action="LogIn.php">
             
         <fieldset style="border: black 2px solid;">
                 <legend><b>REGISTRATION</b></legend>
