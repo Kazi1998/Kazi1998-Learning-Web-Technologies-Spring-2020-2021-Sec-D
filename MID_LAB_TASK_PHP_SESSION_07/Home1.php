@@ -45,10 +45,10 @@
                     <td>
                 <ul>
                     <ol>
-    <li><a href="#">Dashboard</a></li>
-    <li><a href="viweprof.php">View Profile</a></li>
-    <li><a href="#">Edit Profile</a></li>
-    <li><a href="#">Change Profile picture</a></li>
+    <li><a href="Home1.php">Dashboard</a></li>
+    <li><a href="View profile.php">View Profile</a></li>
+    <li><a href="Edit Profile.php">Edit Profile</a></li>
+    <li><a href="change.php">Change Profile picture</a></li>
     <li><a href="Change password.php">Change Password</a></li>
     <li><a href="LogIn.php">Logout</a></li>
 </ol>
