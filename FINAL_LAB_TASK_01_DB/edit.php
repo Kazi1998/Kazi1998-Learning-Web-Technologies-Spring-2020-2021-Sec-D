@@ -29,7 +29,7 @@ else
 		
 		<form method="post">
 			<fieldset>
-			<legend>Signup</legend>
+			<legend>Update</legend>
 
 			USERNAME: <input id="text" type="text" name="user_name"><br><br>
 			PASSWORD: <input id="text" type="password" name="password"><br><br>
