@@ -35,6 +35,7 @@ $result=mysqli_query($con,$query);
           ?> 
 
 	</table> 
-	<center><a href="add.php">Back</a><br></center>
+	<center><a href="add.php">Back |</a>
+		<a href="search.php">| Search List</a><br></center>
 	</body> 
 	</html>
