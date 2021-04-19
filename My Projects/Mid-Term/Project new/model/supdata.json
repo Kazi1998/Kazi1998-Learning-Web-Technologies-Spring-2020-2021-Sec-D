@@ -1,0 +1,20 @@
+[
+    {
+        "username": "Sonu",
+        "phone": "01867997970",
+        "email": "sonu123@gmail.com",
+        "address": "Comilla"
+    },
+    {
+        "username": "Fahim",
+        "phone": "01838997970",
+        "email": "fahim123@gmail.com",
+        "address": "Kuril"
+    },
+    {
+        "username": "Moin",
+        "phone": "01838387970",
+        "email": "moin123@gmail.com",
+        "address": "Kuril"
+    }
+]

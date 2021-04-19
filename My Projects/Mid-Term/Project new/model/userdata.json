@@ -1,0 +1,18 @@
+[
+    {
+        "name": "KAZI REZAUL KARIM",
+        "username": "Rezaul",
+        "password": "1234",
+        "email": "rezaul123@gmail.com",
+        "gender": "Male",
+        "birthday": null
+    },
+    {
+        "name": "KAZI AHASANUL KARIM",
+        "username": "Moin",
+        "password": "1234",
+        "email": "mkazi1922@gmail.com ",
+        "gender": "Male",
+        "birthday": null
+    }
+]

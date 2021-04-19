@@ -1,0 +1,34 @@
+[
+    {
+        "veg": "Potato",
+        "q1": "10 KG",
+        "pro": "Mutton",
+        "q2": "15 KG",
+        "spi": "Turmeric-powder",
+        "q3": "250 GM"
+    },
+    {
+        "veg": "Papaya",
+        "q1": "8 KG",
+        "pro": "Chicken",
+        "q2": "6 KG",
+        "spi": "Ginger",
+        "q3": "100 GM"
+    },
+    {
+        "veg": "Carrot",
+        "q1": "8 KG",
+        "pro": "Duck",
+        "q2": "2 KG",
+        "spi": "Garlic",
+        "q3": "150 GM"
+    },
+    {
+        "veg": "Papaya",
+        "q1": "10 KG",
+        "pro": "Duck",
+        "q2": "2 KG",
+        "spi": "Turmeric-powder",
+        "q3": "100 GM"
+    }
+]
